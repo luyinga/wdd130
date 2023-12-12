@@ -91,13 +91,13 @@ footer {
 footer .social img {
     padding-top: 15px;
 }
-main section {
+.three {
     margin-bottom: 200px;
 }
 main aside {
     margin-top: 200px;
 }
-main article {
+.one {
     margin-top: 150px;
     margin-bottom: 200px;
 }
